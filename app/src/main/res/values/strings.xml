@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">MistConnect</string>
+    <string name="accessibility_desc">MistConnect屏幕观察功能，用于定时截屏分析</string>
+</resources>
